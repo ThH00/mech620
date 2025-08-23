@@ -14,7 +14,7 @@
 
 ## Complete Syllabus
 
-You can find the complete syllabus [here](???).
+You can find the complete syllabus [here](https://drive.google.com/file/d/1lk1Wrgv2NIi1aRZ0Fs9ystEfhlazXLBm/view?usp=sharing).
 The main points are summarized below.
 
 ## Instructor: Theresa Honein
