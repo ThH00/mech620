@@ -58,19 +58,18 @@ Office Hours: T 3:30-6:00pm, W 1:00-3:00pm, Th 3:30-5:00pm in Bechtel 532
 ## 1. Tuesday Aug. 26 
 
 ### Homework
-- Read: Reference frames (Section 1.2)
+- Read: [1.2 - Reference frames](https://drive.google.com/file/d/1oT8Tge58OZHu-iXoMyfXXgyQeeFXmWvb/view?usp=sharing)
 
 ### Classwork
-- Introducing MECH532/230
-- Kinetics of a particle (Section 1.3)
-- Cartesian, Cylindrical Polar, and Spherical Polar Coordinate systems (Section 1.4)
+- Introducing MECH532/230 (Piazza, Gradescope, project, programming)
+- [1.3 - Kinetics of a particle](https://drive.google.com/file/d/1oT8Tge58OZHu-iXoMyfXXgyQeeFXmWvb/view?usp=sharing)
+- [1.4 - Cartesian, Cylindrical Polar, and Spherical Polar Coordinate systems](https://drive.google.com/file/d/1oT8Tge58OZHu-iXoMyfXXgyQeeFXmWvb/view?usp=sharing)
+- [1.5 - Curvilinear Coordinates](???)
 
 ## 2. Thursday Aug. 28 
 
 ### Homework
-- Read: Reference frames (Section 1.2)
+- Read: 
 
 ### Classwork
-- Introducing MECH532/230
-- Kinetics of a particle (Section 1.3)
-- Cartesian, Cylindrical Polar, and Spherical Polar Coordinate systems (Section 1.4)
+- 
