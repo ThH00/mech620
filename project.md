@@ -7,6 +7,7 @@ Model an interesting motion. For inspiration:
 - [rotations.berkeley.edu](rotations.berkeley.edu)
 - Andy Ruina
 - My papers
+- See Professor Shane Ross lectures
 
 ## Project Guidelines
 
