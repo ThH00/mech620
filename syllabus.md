@@ -1,4 +1,4 @@
-[MECH230 Home](homepage.md)        [Syllabus](syllabus.md)        [Project](project.md)
+[MECH532/620 Home](README.md)        [Syllabus](syllabus.md)        [Project](project.md)
 ---
 
 # Syllabus and other logistics
