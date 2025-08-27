@@ -9,10 +9,10 @@ Office Hours: T 3:30-6:00pm, W 1:00-3:00pm, Th 3:30-5:00pm in Bechtel 532
 
 | # | Date      | Topic | Homework |
 |---|-----------|----------|----------|
-| 01 | T Aug. 26 | OOR Chapter 1: Kinematics of a particle    |    |
-| 02 | R Aug. 28 | cont.  | HW1 - curvilinear coordinates due Sep. 04   |
+| 01 | T Aug. 26 | OOR Chapter 1: Kinematics of a particle    | [HW01 - animating bases](https://drive.google.com/file/d/1krKZoVwwGjROBr_xz4FcZ1o--ajEghTr/view?usp=sharing) due Monday Sep 1.   |
+| 02 | R Aug. 28 | cont.  |    |
 | 03 | T Sep. 02 | OOR Chapter 2: Kinetics of a particle   |    |
-| 04 | R Sep. 04 | No class  | HW2 - phase portraits due Sep. 11   |
+| 04 | R Sep. 04 | No class  |   |
 | 05 | T Sep. 09 | OOR Chapter 3: Lagrange's EOM for a single particle | |
 | 06 | R Sep. 11 | cont. | |
 | 07 | T Sep. 16 | cont. | |
@@ -57,20 +57,11 @@ Office Hours: T 3:30-6:00pm, W 1:00-3:00pm, Th 3:30-5:00pm in Bechtel 532
 
 ## 1. Tuesday Aug. 26 
 
-### Homework
-- Read: [1.2 - Reference frames](https://drive.google.com/file/d/1oT8Tge58OZHu-iXoMyfXXgyQeeFXmWvb/view?usp=sharing)
-- Execise: examples of curvilinear coordinate systems due TBD
-
-### Classwork
 - Introducing MECH532/230 (Piazza, Gradescope, project, programming)
-- [1.3 - Kinetics of a particle](https://drive.google.com/file/d/1oT8Tge58OZHu-iXoMyfXXgyQeeFXmWvb/view?usp=sharing)
+- [1.2 - Reference frames](https://drive.google.com/file/d/1oT8Tge58OZHu-iXoMyfXXgyQeeFXmWvb/view?usp=sharing)
 - [1.4 - Cartesian, Cylindrical Polar, and Spherical Polar Coordinate systems](https://drive.google.com/file/d/1oT8Tge58OZHu-iXoMyfXXgyQeeFXmWvb/view?usp=sharing)
 - [1.5 - Curvilinear Coordinates](https://drive.google.com/file/d/1jcezCxyimag3mSecutKtLOo4UJVDz2jY/view?usp=sharing)
 
 ## 2. Thursday Aug. 28 
 
-### Homework
-- TBD
-
-### Classwork
-- TBD
+- [1.3 - Kinetics of a particle](https://drive.google.com/file/d/1oT8Tge58OZHu-iXoMyfXXgyQeeFXmWvb/view?usp=sharing)
