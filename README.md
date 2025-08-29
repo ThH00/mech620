@@ -9,7 +9,7 @@ Office Hours: T 3:30-6:00pm, W 1:00-3:00pm, Th 3:30-5:00pm in Bechtel 532
 
 | # | Date      | Topic | Homework |
 |---|-----------|----------|----------|
-| 01 | T Aug. 26 | OOR Chapter 1: Kinematics of a particle    | [HW01 - animating bases](https://drive.google.com/file/d/1krKZoVwwGjROBr_xz4FcZ1o--ajEghTr/view?usp=sharing) due Monday Sep 1.   |
+| 01 | T Aug. 26 | OOR Chapter 1: Kinematics of a particle    | [HW01 - animating bases](https://drive.google.com/file/d/1krKZoVwwGjROBr_xz4FcZ1o--ajEghTr/view?usp=sharing) due Tuesday September 2.   |
 | 02 | R Aug. 28 | cont.  |    |
 | 03 | T Sep. 02 | OOR Chapter 2: Kinetics of a particle   |    |
 | 04 | R Sep. 04 | No class  |   |
@@ -68,11 +68,11 @@ Office Hours: T 3:30-6:00pm, W 1:00-3:00pm, Th 3:30-5:00pm in Bechtel 532
 - [1.6 - Examples of curvilinear coordinate systems](https://drive.google.com/file/d/1dczXWic3R4R5BDfeM3x13SYKx5xXqLE_/view?usp=sharing)
 - [1.3 - Kinetics of a particle](https://drive.google.com/file/d/1oT8Tge58OZHu-iXoMyfXXgyQeeFXmWvb/view?usp=sharing)
 - [1.7 - Representation of particle kinematics](https://drive.google.com/file/d/15gqZHFznfvLQvxZZ8ACki__cLNoWwPQj/view?usp=sharing)
+
+## 3. Tuesday September 2
 - [1.8 - Kinetic energy and coordinate singularities](https://drive.google.com/file/d/1dV4R1pqsr6v4vRIFhbiqVKIbonNEZIz1/view?usp=sharing)
 - [1.9 - Constraints](https://drive.google.com/file/d/1kFDUXIdpRNXS0H6F1djLhTNcj2WHU7UR/view?usp=sharing)
 - [1.10 - Classifications of constraints](https://drive.google.com/file/d/1BX2bz43KqopZKK0BDIfJITMkIPhLuFUD/view?usp=sharing)
-
-## 3. Tuesday September 2
 
 ## 4. Thursday September 4
 No Class
