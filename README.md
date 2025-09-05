@@ -79,3 +79,4 @@ Office Hours: T 3:30-6:00pm, W 1:00-3:00pm, Th 3:30-5:00pm in Bechtel 532
 No Class
 
 ## 5. Tuesday September 9
+Chapter 2
