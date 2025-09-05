@@ -12,7 +12,7 @@ Office Hours: T 3:30-6:00pm, W 1:00-3:00pm, Th 3:30-5:00pm in Bechtel 532
 | 01 | T Aug. 26 | OOR Chapter 1: Kinematics of a particle    | [HW01 - animating bases](https://drive.google.com/file/d/1krKZoVwwGjROBr_xz4FcZ1o--ajEghTr/view?usp=sharing) due Tuesday September 2.   |
 | 02 | R Aug. 28 | cont.  |    |
 | 03 | T Sep. 02 | OOR Chapter 2: Kinetics of a particle   |    |
-| 04 | R Sep. 04 | No class  |   |
+| 04 | R Sep. 04 | No class  |  [HW02 - orbital mechanics phase portrait](https://drive.google.com/file/d/14R4AnZM5m6I-V7xa8ZfdTFJoOwJCZPKp/view?usp=sharing) due on Thursday September 11. |
 | 05 | T Sep. 09 | OOR Chapter 3: Lagrange's EOM for a single particle | |
 | 06 | R Sep. 11 | cont. | |
 | 07 | T Sep. 16 | cont. | |
@@ -73,6 +73,7 @@ Office Hours: T 3:30-6:00pm, W 1:00-3:00pm, Th 3:30-5:00pm in Bechtel 532
 - [1.8 - Kinetic energy and coordinate singularities](https://drive.google.com/file/d/1dV4R1pqsr6v4vRIFhbiqVKIbonNEZIz1/view?usp=sharing)
 - [1.9 - Constraints](https://drive.google.com/file/d/1kFDUXIdpRNXS0H6F1djLhTNcj2WHU7UR/view?usp=sharing)
 - [1.10 - Classifications of constraints](https://drive.google.com/file/d/1BX2bz43KqopZKK0BDIfJITMkIPhLuFUD/view?usp=sharing)
+- Phase portraits
 
 ## 4. Thursday September 4
 No Class
