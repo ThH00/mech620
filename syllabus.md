@@ -20,11 +20,7 @@ The main points are summarized below.
 ## Instructor: Theresa Honein
 - Email: th72 at aub.edu.lb
 - Lecture: TR 2:30-3:15 pm in Bechtel 209
-- Office Hours: T 3:30-6 pm, W 1-3pm and Th 3:30-5 pm in Bechtel 532 (subject to change within the first two weeks of the semester)
-
-## Teaching Assistant: Sebastian Naja
-- Email: sbn07 at mail.aub.edu
-- Office Hours: TBD
+- Office Hours: M 9am-12noon, W 12:30-2pm, Th 4:30-5:30pm
 
 ## Grading
 

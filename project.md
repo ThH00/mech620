@@ -11,6 +11,9 @@ Model an interesting motion. For inspiration:
 
 ## Project Guidelines
 
+## Project Assignments
+- Wafic Itani: Building a hula hooping robot + conducting experiments
+
 
 ## Homework Ideas
 

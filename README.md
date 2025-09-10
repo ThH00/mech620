@@ -11,10 +11,10 @@ Office Hours: T 3:30-6:00pm, W 1:00-3:00pm, Th 3:30-5:00pm in Bechtel 532
 |---|-----------|----------|----------|
 | 01 | T Aug. 26 | OOR Chapter 1: Kinematics of a particle    | [HW01 - animating bases](https://drive.google.com/file/d/1krKZoVwwGjROBr_xz4FcZ1o--ajEghTr/view?usp=sharing) due Tuesday September 2.   |
 | 02 | R Aug. 28 | cont.  |    |
-| 03 | T Sep. 02 | OOR Chapter 2: Kinetics of a particle   |    |
+| 03 | T Sep. 02 | cont.  |    |
 | 04 | R Sep. 04 | No class  |  [HW02 - orbital mechanics phase portrait](https://drive.google.com/file/d/14R4AnZM5m6I-V7xa8ZfdTFJoOwJCZPKp/view?usp=sharing) due on Thursday September 11. |
-| 05 | T Sep. 09 | OOR Chapter 3: Lagrange's EOM for a single particle | |
-| 06 | R Sep. 11 | cont. | |
+| 05 | T Sep. 09 | OOR Chapter 2: Kinetics of a particle | [HW03 - particle inside a rough sphere](https://drive.google.com/file/d/1nxj7QsOvbycgNC6SP8vk43lHP6W7bmcc/view?usp=sharing) due on Tuesday September 16. |
+| 06 | R Sep. 11 | OOR Chapter 3: Lagrange's EOM for a single particle | |
 | 07 | T Sep. 16 | cont. | |
 | 08 | R Sep. 18 | cont. | |
 | 09 | T Sep. 23 | Solving ODEs numerically | |
@@ -79,4 +79,11 @@ Office Hours: T 3:30-6:00pm, W 1:00-3:00pm, Th 3:30-5:00pm in Bechtel 532
 No Class
 
 ## 5. Tuesday September 9
-Chapter 2
+- 2.2 The balance law for a single particle
+- 2.3 Work and power
+- 2.4 Conservative forces
+- 2.5 Examples of conservative forces
+- 2.6 Constraint forces
+
+## 6. Thursday September 11
+- 2.7 Conservations
