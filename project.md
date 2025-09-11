@@ -12,7 +12,12 @@ Model an interesting motion. For inspiration:
 ## Project Guidelines
 
 ## Project Assignments
-- Wafic Itani: Building a hula hooping robot + conducting experiments
+- Building a hula hooping robot + conducting experiments (Wafic Itani).
+- Modeling a stack of blocks on an oscillating foundation using the discrete element methods (TBD).
+- Simulating a 3D block on a moving foundation and exploring possible motions (TBD).
+- Simulating a hopping hula hoop, ie. the jump of a wheel with a mass imbalance (TBD).
+- Obtaining the phase space of the previously mentioned hopping hula hoop with a mass imbalance (TBD).
+- Explore the algorithms that 'optimize' that data from two sensors on the same rigid body (TBD).
 
 
 ## Homework Ideas

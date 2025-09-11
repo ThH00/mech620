@@ -86,4 +86,19 @@ No Class
 - 2.6 Constraint forces
 
 ## 6. Thursday September 11
+- 3.2 Lagrange's equations motion
+- 3.3 Equations of motion for an unconstrained particle
+- 3.4 Lagrange's equations in the presence of constraints
+
+## 7. Tuesday September 16
+- 3.5 A particle in motion on a smooth surface of revolution
+- 3.6 A particle in motion on a sphere
+- 3.7 Some elements of geometry and particle kinematics
+- 3.8 The geometry of Lagrange's equations of motion
+- 3.9 Lagrange's equations of motion for a particle in the presence of friction
+- 3.10 A particle moving on a helix
+- 3.11 A particle in motion on a moving curve
 - 2.7 Conservations
+
+## 8. Thursday September 18
+- Vibrations
