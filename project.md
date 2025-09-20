@@ -13,6 +13,9 @@ Model an interesting motion. For inspiration:
 
 ## Project Assignments
 - Building a hula hooping robot + conducting experiments (Wafic Itani).
+- Simulating a legged robot walking on sand (Nour Hallak and Karim Braidi).
+
+### Unassigned
 - Modeling a stack of blocks on an oscillating foundation using the discrete element methods (TBD).
 - Simulating a 3D block on a moving foundation and exploring possible motions (TBD).
 - Simulating a hopping hula hoop, ie. the jump of a wheel with a mass imbalance (TBD).
