@@ -18,7 +18,7 @@ Office Hours: T 3:30-6:00pm, W 1:00-3:00pm, Th 3:30-5:00pm in Bechtel 532
 | 07 | T Sep. 16 | cont. | |
 | 08 | R Sep. 18 | cont. | |
 | 09 | T Sep. 23 | Solving ODEs numerically | |
-| 10 | R Sep. 25 | Coding Animations | |
+| 10 | R Sep. 25 | Coding Animations | [HW04 - Lagrange's EOM for a particle](https://drive.google.com/file/d/1EZida1mMZ9lNguCF6bFut9FnkjIGaxBZ/view?usp=sharing) due on Tuesday October 7 |
 | | | LAUNCH PROJECTS | |
 | 11 | T Sep. 30 | OOR Chapter 4: Lagrange's EOM for SOPs | |
 | 12 | R Oct. 02 | OOR Chapter 5: Dynamics of SOPs | |
@@ -99,11 +99,17 @@ No Class
 ## 8. Thursday September 18
 - 3.7 Some elements of geometry and particle kinematics
 - 3.8 The geometry of Lagrange's equations of motion
+- 3.10 A particle moving on a helix
 - 3.11 A particle in motion on a moving curve
+
+## 9. Tuesday September 23
+- Matlab symbolics 
+
+## 10. Thursday September 25
+- Solving EOM numerically + animations
+
+## 11. Tuesday September 30
 - Chapter 4
 
-## 9. Tuesday September
-- 3.10 A particle moving on a helix
-- Solving EOM numerically + animations
-- Matlab symbolics 
+## Later
 - Vibrations
