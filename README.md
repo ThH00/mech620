@@ -19,10 +19,9 @@ Office Hours: T 3:30-6:00pm, W 1:00-3:00pm, Th 3:30-5:00pm in Bechtel 532
 | 08 | R Sep. 18 | cont. | |
 | 09 | T Sep. 23 | Solving ODEs numerically | |
 | 10 | R Sep. 25 | Coding Animations | [HW04 - Lagrange's EOM for a particle](https://drive.google.com/file/d/1EZida1mMZ9lNguCF6bFut9FnkjIGaxBZ/view?usp=sharing) due on Tuesday October 7 |
-| | | LAUNCH PROJECTS | |
 | 11 | T Sep. 30 | OOR Chapter 4: Lagrange's EOM for SOPs | |
 | 12 | R Oct. 02 | OOR Chapter 5: Dynamics of SOPs | |
-| 13 | R Oct. 07 | [Different formulations of the EOM](https://doi.org/10.1007/s11071-021-06565-2) | |
+| 13 | T Oct. 07 | [Different formulations of the EOM](https://doi.org/10.1007/s11071-021-06565-2) | [HW05 - Lagrange's EOM for SOP](https://drive.google.com/file/d/1W0eqB8xkuyNn7Q-qxdytH_qi60SU-5Qa/view?usp=sharing) due on Tuesday October 15. |
 | 14 | R Oct. 09 | OOR Appendix A: Tensors | |
 | 15 | T Oct. 14 | OOR Chapter 6: Rotations and their representations | |
 | 16 | R Oct. 16 | cont. | |
