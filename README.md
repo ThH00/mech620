@@ -24,7 +24,7 @@ Office Hours: T 3:30-6:00pm, W 1:00-3:00pm, Th 3:30-5:00pm in Bechtel 532
 | 13 | T Oct. 07 | [Different formulations of the EOM](https://doi.org/10.1007/s11071-021-06565-2) | [HW05 - Lagrange's EOM for SOP](https://drive.google.com/file/d/1W0eqB8xkuyNn7Q-qxdytH_qi60SU-5Qa/view?usp=sharing) due on Tuesday October 15. |
 | 14 | R Oct. 09 | OOR Appendix A: Tensors | |
 | 15 | T Oct. 14 | OOR Chapter 6: Rotations and their representations | |
-| 16 | R Oct. 16 | cont. | |
+| 16 | R Oct. 16 | [Midterm Exam](https://drive.google.com/file/d/1gfhnJ1Bsd_GWIYdm5cxomXlXjOrwSB7R/view?usp=sharing) and [Solutions](https://drive.google.com/file/d/1Wrh24JNyvH1FekIhkXkVFRq9PV2Q1cpe/view?usp=sharing) | |
 | 17 | T Oct. 21 | OOR Chapter 7: Kinematics of a RBs | [HW06 - Tensor Algebra](https://drive.google.com/file/d/119NUbbaR14soGTepCUs5i0Xap_mpFjYV/view?usp=sharing) due on Tuesday October 28 |
 | 18 | R Oct. 23 | OOR Chapter 8: Constraints and potential energy for RBs | |
 | 19 | T Oct. 28 | OOR Chapter 9: Kinetics of a RB | |
