@@ -110,5 +110,30 @@ No Class
 ## 11. Tuesday September 30
 - Chapter 4
 
+## 12. Thursday November 2
+- Chapter 5
+
+## 13. Tuesday November 7
+- [Different formulations of the EOM](https://doi.org/10.1007/s11071-021-06565-2)
+
+## 14. Thursday November 9
+- [Different formulations of the EOM](https://doi.org/10.1007/s11071-021-06565-2) cont.
+
+## 15. Tuesday November 14
+- Appendix A: Tensor calculus
+
+## 16. Thursday November 16
+- Midterm Exam
+
+## 17. Tuesday November 21
+- Appendix A: Tensor calculus
+- Chapter 6
+
+## 18. Thursday November 23
+
+## 19. Tuesday November 28
+
+## 20. Thursday November 30
+
 ## Later
 - Vibrations
