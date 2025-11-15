@@ -32,7 +32,7 @@ Office Hours: T 3:30-6:00pm, W 1:00-3:00pm, Th 3:30-5:00pm in Bechtel 532
 | 21 | T Nov. 04 | OOR Chapter 9: Kinetics of a RB | |
 | 22 | R Nov. 06 | cont. | |
 | 23 | T Nov. 11 | OOR Chapter 10: Lagrange's EOM for a single RB | |
-| 24 | R Nov. 13 | cont. | [HW08 - Lagrange's EOM for a RB](https://drive.google.com/file/d/1myEvmgIC1lslB8UFTG1a0bb36f-do12Q/view?usp=sharing) |
+| 24 | R Nov. 13 | cont. | [HW08 - Lagrange's EOM for a RB](https://drive.google.com/file/d/1myEvmgIC1lslB8UFTG1a0bb36f-do12Q/view?usp=sharing) due Nov. 21 |
 | 25 | T Nov. 18 | Solving nonsmooth differential equations | |
 | 26 | R Nov. 20 | cont. | |
 | 27 | T Nov. 25 | Quaternions + Motion Capture | |
