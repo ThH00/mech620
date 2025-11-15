@@ -28,16 +28,15 @@ Office Hours: T 3:30-6:00pm, W 1:00-3:00pm, Th 3:30-5:00pm in Bechtel 532
 | 17 | T Oct. 21 | OOR Chapter 6: Rotations and their representations | [HW06 - Tensor Algebra](https://drive.google.com/file/d/119NUbbaR14soGTepCUs5i0Xap_mpFjYV/view?usp=sharing) due on Tuesday October 28 |
 | 18 | R Oct. 23 | OOR Chapter 7: Kinematics of a RBs | |
 | 19 | T Oct. 28 | OOR Chapter 8: Constraints and potential energy for RBs | [HW07 - Rotations](https://drive.google.com/file/d/1YZuIJ1aHXRZ4foTlM2xhN4UA0ZUIVJ7U/view?usp=sharing) due on Thursday November 6 |
-| 20 | R Oct. 30 | OOR Chapter 9: Kinetics of a RB | |
-| 21 | T Nov. 04 | OOR Chapter 10: Lagrange's EOM for a single RB | |
+| 20 | R Oct. 30 | cont. | |
+| 21 | T Nov. 04 | OOR Chapter 9: Kinetics of a RB | |
 | 22 | R Nov. 06 | cont. | |
-| 23 | T Nov. 11 | Selected topics | |
-| 24 | R Nov. 13 | cont. | |
-| 25 | T Nov. 18 | cont. | |
+| 23 | T Nov. 11 | OOR Chapter 10: Lagrange's EOM for a single RB | |
+| 24 | R Nov. 13 | cont. | [HW08 - Lagrange's EOM for a RB](https://drive.google.com/file/d/1myEvmgIC1lslB8UFTG1a0bb36f-do12Q/view?usp=sharing) |
+| 25 | T Nov. 18 | Solving nonsmooth differential equations | |
 | 26 | R Nov. 20 | cont. | |
-| 27 | T Nov. 25 | cont. | |
-| 28 | R Nov. 27 | cont. | |
-
+| 27 | T Nov. 25 | Quaternions + Motion Capture | |
+| 28 | R Nov. 27 | Vibrations | |
 
 <!-- ---
 
