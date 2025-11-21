@@ -109,30 +109,56 @@ No Class
 ## 11. Tuesday September 30
 - Chapter 4
 
-## 12. Thursday November 2
+## 12. Thursday October 2
 - Chapter 5
 
-## 13. Tuesday November 7
+## 13. Tuesday October 7
 - [Different formulations of the EOM](https://doi.org/10.1007/s11071-021-06565-2)
 
-## 14. Thursday November 9
+## 14. Thursday October 9
 - [Different formulations of the EOM](https://doi.org/10.1007/s11071-021-06565-2) cont.
 
-## 15. Tuesday November 14
+## 15. Tuesday October 14
 - Appendix A: Tensor calculus
 
-## 16. Thursday November 16
+## 16. Thursday October 16
 - Midterm Exam
 
-## 17. Tuesday November 21
+## 17. Tuesday October 21
 - Appendix A: Tensor calculus
 - Chapter 6
 
-## 18. Thursday November 23
+## 18. Thursday October 23
+- Rotations + Euler angles
 
-## 19. Tuesday November 28
+## 19. Tuesday October 28
+- Rotations + Euler angles cont.
 
-## 20. Thursday November 30
+## 20. Thursday October 30
+- RB constraint formulations
+
+## Tuesday November 4
+- RB kinematics
+
+## Thursday November 6
+- RB kinetics
+- Momentum sphere
+
+## Tuesday November 11
+- Lagrange's EOM for a RB
+
+## Thursday November 13
+- Lagrange's EOM for a RB, cont.
+
+## Tuesday November 18
+- Introduced the nonsmooth-generalized alpha code for modeling systems with impact and frictional contact. *attach paper*
+
+## Thursday November 20
+ 
+- We ran the code and plotted the results (displacement of ball’s center + ball’s rotation).
+- We changed the code such that the ball is rotating as it falls and examined the results.
+- We changed the code to model a ball that is rolling or slipping on the ground.
+- We changed the code to simulate a rolling or sliding ball with a mass imbalance. For this, we need - to calculate a new mass matrix and applied force vector.
 
 ## Later
 - Vibrations

@@ -1,6 +1,10 @@
 [MECH532/620 Home](README.md)        [Syllabus](syllabus.md)        [Project](project.md)
 ---
 
+## Deliverables
+- Report Draft 1 (min 2 pages) one week after midterm.
+- Report due at end of semester followed by a Q&A. 
+
 ## Project Ideas
 
 Model an interesting motion. For inspiration:
